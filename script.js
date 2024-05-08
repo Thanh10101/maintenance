@@ -10,4 +10,4 @@ function maintainpgage() {
         window.location.href = 'maintenance.html';
     }
 }
-setTimeout("maintainpgage()", 5000);
+setTimeout("maintainpgage()", 2000);
